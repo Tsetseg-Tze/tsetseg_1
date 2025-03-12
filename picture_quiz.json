@@ -1,22 +1,32 @@
 [
   {
-    "question": "Flutter ямар програмчлалын хэл дээр бичигддэг вэ?",
-    "options": ["Java", "Dart", "Swift", "Kotlin"],
-    "answer": "Dart"
+    "question": "Who is this",
+    "img-url":"https://raw.githubusercontent.com/Tsetseg-Tze/tsetseg_1/refs/heads/main/3ff0abab4503bad9.jpeg",
+    "options": ["Michael Jockey", "Michael Jordan", "Michael Jackson", "Ariana Grande"],
+    "answer": "Michael Jackson"
   },
   {
-    "question": "Flutter ямар UI framework вэ?",
-    "options": ["React Native", "SwiftUI", "Jetpack Compose", "Flutter"],
-    "answer": "Flutter"
+    "question": "Who is this",
+    "img-url":"https://raw.githubusercontent.com/Tsetseg-Tze/tsetseg_1/refs/heads/main/HD-wallpaper-rihanna-american-singer-portrait-hoot-superstar-famous-singers-robyn-rihanna-fenty.jpeg",
+    "options": ["Katty Perry", "Rihanna", "Beyonce", "Billie"],
+    "answer": "Rihanna"
   },
   {
-    "question": "Flutter-д StatefulWidget болон StatelessWidget хоёрын ялгаа юу вэ?",
-    "options": [
-      "StatefulWidget-д төлөв өөрчлөгдөхгүй",
-      "StatelessWidget-д төлөв өөрчлөгдөхгүй",
-      "StatefulWidget-д төлөв хадгалагддаггүй",
-      "StatelessWidget нь setState() ашигладаг"
-    ],
-    "answer": "StatelessWidget-д төлөв өөрчлөгдөхгүй"
-  }
+    "question": "Who is this",
+    "img-url":"https://raw.githubusercontent.com/Tsetseg-Tze/tsetseg_1/refs/heads/main/sabrina-carpenter-1-1200x794.jpeg",
+    "options": ["Taylor Swift", "Ariana Grande", "Michael Jackson", "Sabrina Carpenter"],
+    "answer": "Sabrina Carpenter"
+  },
+  {
+    "question": "Who is this",
+    "img-url":"https://raw.githubusercontent.com/Tsetseg-Tze/tsetseg_1/refs/heads/main/beyonce-east-rutherford-072923_2779-2152aadcfa4542a5889f247a64d797e2.jpeg",
+    "options": ["Michael Jockey", "Christina Aguilera", "Beyonce", "Lady Gaga"],
+    "answer": "Beyonce"
+  },
+  {
+    "question": "Who is this",
+    "img-url":"https://raw.githubusercontent.com/Tsetseg-Tze/tsetseg_1/refs/heads/main/MV5BNmU0Y2FjOWItN2E5Yi00ZmZlLTgyMTEtMjMxZTczNGMzZDQ2XkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpeg",
+    "options": ["Mariah Carey", "Whitney Hauston", "Ariana Grande", "Amy Winehouse"],
+    "answer": "Mariah Carey"
+  },
 ]
