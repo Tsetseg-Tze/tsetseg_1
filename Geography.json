@@ -1,1 +1,56 @@
-
+[
+  {
+    "question": "Япон улсын нийслэл аль хот вэ?",
+    "img-url":"https://raw.githubusercontent.com/Tsetseg-Tze/tsetseg_1/refs/heads/main/3ff0abab4503bad9.jpeg",
+    "options": ["Сөүл", "Бээжин", "Токио", "Киото"],
+    "answer": "Токио"
+  },
+  {
+    "question": "Дэлхийн хамгийн өндөр уул юу вэ?",
+    "img-url":"https://raw.githubusercontent.com/Tsetseg-Tze/tsetseg_1/refs/heads/main/HD-wallpaper-rihanna-american-singer-portrait-hoot-superstar-famous-singers-robyn-rihanna-fenty.jpeg",
+    "options": ["Килиманджаро", "Эльбрус", "Монблан", "Эверест"],
+    "answer": "Эверест"
+  },
+  {
+    "question": "Африк тивийн хамгийн урт гол аль нь вэ?",
+    "img-url":"https://raw.githubusercontent.com/Tsetseg-Tze/tsetseg_1/refs/heads/main/sabrina-carpenter-1-1200x794.jpeg",
+    "options": ["Нил", "Миссисипи", "Дунай", "Амазон"],
+    "answer": "Нил"
+  },
+  {
+    "question": "Дэлхийн хамгийн гүн цэнгэг уст нуур аль нь вэ?",
+    "img-url":"https://raw.githubusercontent.com/Tsetseg-Tze/tsetseg_1/refs/heads/main/beyonce-east-rutherford-072923_2779-2152aadcfa4542a5889f247a64d797e2.jpeg",
+    "options": ["Викториа", "Байгал", "Титикака", "Онтарио"],
+    "answer": "Байгал"
+  },
+  {
+    "question": "Аль улс вэ?",
+    "img-url":"https://raw.githubusercontent.com/Tsetseg-Tze/tsetseg_1/refs/heads/main/MV5BNmU0Y2FjOWItN2E5Yi00ZmZlLTgyMTEtMjMxZTczNGMzZDQ2XkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpeg",
+    "options": ["Мексик", "Чили", "Перу", "Боливи"],
+    "answer": "Перу"
+  }
+  {
+    "question": "Дэлхийн хамгийн том арал аль нь вэ?",
+    "img-url":"https://raw.githubusercontent.com/Tsetseg-Tze/tsetseg_1/refs/heads/main/MV5BNmU0Y2FjOWItN2E5Yi00ZmZlLTgyMTEtMjMxZTczNGMzZDQ2XkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpeg",
+    "options": ["Австрали", "Гренланд", "Мадагаскар", "Исланд"],
+    "answer": "Гренланд"
+  }
+   {
+    "question": "Дэлхийн хамгийн хүйтэн тив аль нь вэ?",
+    "img-url":"https://raw.githubusercontent.com/Tsetseg-Tze/tsetseg_1/refs/heads/main/HD-wallpaper-rihanna-american-singer-portrait-hoot-superstar-famous-singers-robyn-rihanna-fenty.jpeg",
+    "options": ["Ази", "Европ", "Антарктид", "Хойд Америк"],
+    "answer": "Антарктид"
+  },
+  {
+    "question": "Ниагарын хүрхрээ ямар хоёр улсын хооронд оршдог вэ?",
+    "img-url":"https://raw.githubusercontent.com/Tsetseg-Tze/tsetseg_1/refs/heads/main/sabrina-carpenter-1-1200x794.jpeg",
+    "options": ["Канад, Мексик", "АНУ, Бразил", "Канад, АНУ", "Канад, Их Британи"],
+    "answer": "Канад, АНУ"
+  },
+  {
+    "question": "Газрын зураг дээрх байршлыг өргөрөг, уртрагаар илэрхийлдэг системийг юу гэдэг вэ?",
+    "img-url":"https://raw.githubusercontent.com/Tsetseg-Tze/tsetseg_1/refs/heads/main/beyonce-east-rutherford-072923_2779-2152aadcfa4542a5889f247a64d797e2.jpeg",
+    "options": ["Проекц", "Экватор", "Харьцаа", "Координат"],
+    "answer": "Координат"
+  },
+]
